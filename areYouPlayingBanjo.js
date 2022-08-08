@@ -35,7 +35,6 @@ function areYouPlayingBanjo(name) {
   }
 }
 
-areYouPlayingBanjo("Adam"); //"Adam does not play banjo"
 areYouPlayingBanjo("Paul"); //"Paul does not play banjo"
 areYouPlayingBanjo("Ringo"); // "Ringo plays banjo"
 areYouPlayingBanjo("bravo"); // "bravo does not play banjo"
