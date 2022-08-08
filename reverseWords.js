@@ -9,7 +9,6 @@ E:
     reverseWords('apple')       //returns: 'elppa'
     reverseWords('double  spaced  words')   //returns: 'elbuod  decaps  sdrow'
 P: 
-
 create a function that takes in a str
 then make it into a array 
 reverse array

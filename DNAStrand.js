@@ -11,7 +11,6 @@ you need to return the other complementary side. DNA strand is never
 empty or there is no DNA at all (again, except for Haskell).
 
 
-
 P: you will be give a dna string containing letters
 R: return with 'A' and 'T', 'C' and 'G' swapped (replaced)
 E: 

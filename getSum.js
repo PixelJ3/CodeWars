@@ -5,8 +5,6 @@ numbers are equal return a or b.
 
 Note: a and b are not ordered!
 
-
-
 P: Given two integers a and b, which can be positive or negative
 R: return the sum of all the integers between and includeing them and return it.
 if the two numbers are equal return a or b

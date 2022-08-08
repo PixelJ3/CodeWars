@@ -4,6 +4,7 @@ is running out and the nearest pump is 50 miles away! You know that on average, 
 per gallon. There are 2 gallons left. Considering these factors, write a function that tells you if it is possible 
 to get to the pump or not. Function should return true if it is possible and false if not.
 
+
 P: the 3 parameters are distanceToPump, mpg, and fuelLeft  
 R: return false if you can't make it to the pump, return true if you can.
 E: 

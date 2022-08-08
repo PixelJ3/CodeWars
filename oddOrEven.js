@@ -15,7 +15,6 @@ Output: "odd"
 Input: [0, -1, -5]
 Output: "even"
 
-
 P: you will be given an array of numbers positive and negative
 R: return "odd" or "even" if the sum is odd or even
 E: 

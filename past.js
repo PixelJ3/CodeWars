@@ -4,7 +4,6 @@ Clock shows h hours, m minutes and s seconds after midnight.
 Your task is to write a function which returns the 
 time since midnight in milliseconds.
 
-
 P: you are given hours, minutes , and secs
 R: return the time since midnight in millisecs
 E:

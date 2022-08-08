@@ -11,7 +11,6 @@ as 2, 4, and 6 are the multiples of 2 up to 6.
 *** If you can, try writing it in only one line of code. ***
 
 
-
 P: is there anyfloats, negative numbers? 
 R: return a list of its multiple up to another value, limit
 E:

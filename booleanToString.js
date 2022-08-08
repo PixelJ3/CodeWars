@@ -4,7 +4,6 @@ value into its string representation.
 
 Note: Only valid inputs will be given.
 
-
 P:is it only values given? 
 R:return 'false' if false
   return 'true' if true 

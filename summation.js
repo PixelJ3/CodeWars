@@ -10,7 +10,6 @@ summation(2) -> 3
 summation(8) -> 36
 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8
 
-
 P: you will be given a random number
 R: the summation of every number from 1 to num
 E: 

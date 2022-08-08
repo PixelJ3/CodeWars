@@ -14,7 +14,6 @@ P:
 create a function that takes in an array. 
 then create a variable that'll join the name array. 
 then return the sentence using said array.*/
-
 function sayHello(name, city, state) {
   let fullName = name.join(" ");
   return `Hello, ${fullName}! Welcome to ${city}, ${state}!`;

@@ -17,7 +17,6 @@ should produce result: [87, 45, 8, 8, 1, 5]
 loopArr([1, 5, 87, 45, 8, 8], 'right', 2);
 should produce result: [8, 8, 1, 5, 87, 45]
 
-
 *******************************************************
 
 P (parameters): are there multiple arrays at once? just reorganizing an array from requested order

@@ -21,7 +21,6 @@ create a for loop
     assign binary to remain + binary
 return
 */
-
 function countBits(number) {
   let num = number;
   let binary = num % 2;

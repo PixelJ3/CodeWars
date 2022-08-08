@@ -9,8 +9,6 @@ same and the width of the pillars is the same.
 Calculate the distance between the first and the last pillar 
 in centimeters (without the width of the first and last pillar).
 
-
-
 P: What if there's only one pillar or none? How do we find the distance?
 R: we need to return the distance from the first pillar to the last
 E:

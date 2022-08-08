@@ -24,7 +24,6 @@ create a function that takes in a name
 then checks if the string (name) starts with a r or R 
 if so return name plays banjo 
 if not then return name does not play banjo
-
 */
 
 function areYouPlayingBanjo(name) {

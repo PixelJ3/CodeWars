@@ -16,7 +16,6 @@ if the number is odd (n % 2 === 0)
 then multiply number by 8
 else multiply number by 9
 return
-
 */
 
 function simpleMultiplication(number) {

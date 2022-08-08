@@ -13,7 +13,6 @@ E:
     squareSum([]),              returns: 0
     squareSum([1, 2, 2]),       returns: 9
 P: 
-
 create a function that takes in numbers/array
     function squareSum(numbers){
 

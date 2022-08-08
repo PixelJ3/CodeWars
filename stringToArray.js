@@ -13,7 +13,6 @@ then split it and return
 function stringToArray(string) {
   return string.split("");
 }
-
 // in one line
 const stringToArray = (string) => string.split("");
 
