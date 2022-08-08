@@ -17,3 +17,10 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 ## Lessons Learned:
 
 The Biggest Lesson I learned in tackling this endless supply of questions is understanding that there is a long way to go. Not being able to answer a question is okay, as long as you take the initiative to improve.
+
+
+NOTE:
+  recent merge happened, so alot of the codewars were pushed 
+  at the same time, this is because i wanted to have them in 
+  a single folder and make it public
+  
