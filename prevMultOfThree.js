@@ -11,7 +11,7 @@ Examples
 952406 => 9 
 
 P: is there any negative numbers given? any floats? 
-R: return n if the input is already a multiple of 3, else return null
+R: return the given number if the input is already a multiple of 3, else return null
 E: 
 
     1      => null
