@@ -14,7 +14,6 @@ The input string can be of arbitrary length - in particular, it may be empty. Al
 valid, i.e. each input string will only ever consist of 'G', 'C', 'A' and/or 'T'. 
 
 
-
 P: are we converting multiple letters at once? all Uppercase ?
 R: return RNA 
 E:
