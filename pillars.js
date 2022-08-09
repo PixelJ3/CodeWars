@@ -13,7 +13,6 @@ P: What if there's only one pillar or none? How do we find the distance?
 R: we need to return the distance from the first pillar to the last
 E:
 
-
 (pillars(1, 10, 10) , 0);
 (pillars(2, 20, 25) , 2000);
 (pillars(11, 15, 30) , 15270);
