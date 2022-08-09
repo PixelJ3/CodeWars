@@ -11,7 +11,6 @@ removeChar('country'), 'ountr'
 removeChar('person'), 'erso'
 removeChar('place'), 'lac'
 removeChar('ooopsss'), 'oopss'
-
 P:
 create a function that takes in the given string
 create an array by spliting the string 
