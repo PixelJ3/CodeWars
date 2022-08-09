@@ -1,9 +1,8 @@
 /*
 This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.
 
-
 P: You will be given a random number.
-R: if the given number is even then return the number multiplied by 8. if its odd then return the given number muliplied by 9.
+R: return the number multiplied by 8 if given number is even. else multiplied by 9
 E: 
     simpleMultiplication(2)     //expected output 16
     simpleMultiplication(1)     //expected output 9
