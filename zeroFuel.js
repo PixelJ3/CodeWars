@@ -6,7 +6,7 @@ to get to the pump or not. Function should return true if it is possible and fal
 
 
 P: the 3 parameters are distanceToPump, mpg, and fuelLeft  
-R: return false if you can't make it to the pump, return true if you can.
+R: return true if you can make it to the pump, return false if you can't
 E: 
   zeroFuel(50, 25, 2) //expected output: true
   zeroFuel(100, 50, 1) //expected output: false
@@ -16,7 +16,6 @@ multiply mpg and fuelLeft, then assign it to a variable
 compare new var with distanceToPump. 
 if newVar is equal to or greater than distanceToPump then return true
 else return false
-
 */
 
 // const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
