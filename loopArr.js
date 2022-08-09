@@ -9,28 +9,17 @@ Function should accept three arguments:
 array - non-empty array of elements of any type;
 direction - 'left' or 'right' - tells how to loop array;
 steps - number of steps to loop array (less or equal to array size);
-Examples:
 
+P: are there multiple arrays at once? just reorganizing an array from requested order
+R: return the output that matches the requested order
+E:
 loopArr([1, 5, 87, 45, 8, 8], 'left', 2);
 should produce result: [87, 45, 8, 8, 1, 5]
 
 loopArr([1, 5, 87, 45, 8, 8], 'right', 2);
 should produce result: [8, 8, 1, 5, 87, 45]
 
-*******************************************************
-
-P (parameters): are there multiple arrays at once? just reorganizing an array from requested order
-R (return): the output should match the requested order
-E (examples):
-
-loopArr([1, 5, 87, 45, 8, 8], 'left', 2);
-should produce result: [87, 45, 8, 8, 1, 5]
-
-loopArr([1, 5, 87, 45, 8, 8], 'right', 2);
-should produce result: [8, 8, 1, 5, 87, 45]
-
-
-P (psuedo code):
+P:
 create a function that takes in an Array
 if direction is left then the array elements should decrease
 if direction is right then the array elements should increase */
