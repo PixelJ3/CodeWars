@@ -8,8 +8,9 @@ If both arr1 and arr2 are empty, then just return an empty array.
 
 Note: arr1 and arr2 may be sorted in different orders. Also arr1 and arr2 may have same integers. 
 Remove duplicated in the returned result. 
+
 P: any floats? negative numbers? 
-R: return the merged array 
+R: return the merged arrays 
 E: 
     [1, 2, 3, 4, 5], [6, 7, 8, 9, 10]   return [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
