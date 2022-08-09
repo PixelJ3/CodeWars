@@ -1,6 +1,6 @@
 /* 
 Complete the function that accepts a string parameter, and reverses each 
-word in the string. All spaces in the string should be retained.
+word in the string. All spaces in the string should be retained
 
 P: you will be given a random string  
 R: return the str backwards
