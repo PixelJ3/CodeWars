@@ -8,8 +8,6 @@ name + " plays banjo"
 name + " does not play banjo"
 Names given are always valid strings.
 
-
-
 P:random names will be given. starting with any letters
 R: return 'name' plays banjo if name starts with r or R
 if not then return 'name' does not play banjo
