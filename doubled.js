@@ -22,4 +22,4 @@ function doubled(arr) {
 const doubled = (arr) => arr.map((element) => element * 2);
 
 doubled([1, 2, 3]); //Expected outcome: [2,4,6]
-console.log(doubled([2, 3, 4])); // Expected output [4,6,8]
+doubled([2, 3, 4]); // Expected output [4,6,8]
