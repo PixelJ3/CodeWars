@@ -7,11 +7,9 @@ Given [34, 15, 88, 2] your solution will return 2
 Given [34, -345, -1, 100] your solution will return -345
 You can assume, for the purpose of this kata, that the supplied array will not be empty. 
 
-
 P: is there any negative integers? any floats?
 R: return the smallest integer
 E: 
-
 [34, 15, 88, 2]          return 2
 [34, -345, -1, 100]      return -345
 [78,56,232,12,8]         return 8
