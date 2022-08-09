@@ -23,7 +23,6 @@ then replace 'A' with 'T' and 'C' with 'G' and visevera
 then return the string
 
 */
-
 function DNAStrand(dna) {
   var complements = {
     A: "T",
