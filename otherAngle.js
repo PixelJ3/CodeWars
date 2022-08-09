@@ -4,7 +4,7 @@ Write a function to return the 3rd.
 
  Note: only positive integers will be tested.
 P: are there any negative numbers given? are there any floats used?
-R: Return the third angle degree
+R: return the third angle degree
 E: 
     otherAngle(30, 60), 90);
     otherAngle(60, 60), 60);
