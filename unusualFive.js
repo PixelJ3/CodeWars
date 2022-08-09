@@ -12,7 +12,6 @@ P:
 create a function
 create a variable and assing it a word that five characters long
 then return the .length of the variable 
-
 */
 
 function unusualFive() {
