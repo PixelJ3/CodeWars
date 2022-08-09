@@ -7,7 +7,6 @@ time since midnight in milliseconds.
 P: you are given hours, minutes , and secs
 R: return the time since midnight in millisecs
 E:
-
 h = 0
 m = 1
 s = 1
