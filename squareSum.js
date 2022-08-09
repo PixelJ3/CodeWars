@@ -4,7 +4,6 @@ passed into it and then sums the results together.
 
 For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2 = 9. 
 
-
 P: you will be given an with random amounts of random numbers
 R: square each number in the array and then add every array element
 E: 
