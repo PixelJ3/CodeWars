@@ -15,7 +15,6 @@ P: create a function that takes in a boolean value
     create an if statement 
     if true return "true"
     else return "false"
-
 */
 
 function booleanToString(b) {
