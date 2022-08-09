@@ -3,7 +3,7 @@ Write a program that finds the summation of every number from 1 to num. The numb
 always be a positive integer greater than 0.
 
 P: you will be given a random number
-R: the summation of every number from 1 to num
+R: return the sum of every number from 1 to given number
 E: 
     summation(2) -> 3
     1 + 2
