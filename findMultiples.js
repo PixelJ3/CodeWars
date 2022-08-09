@@ -24,8 +24,6 @@ E:
   (4, 27),       return [4, 8, 12, 16, 20, 24]
   (11, 54),      return [11, 22, 33, 44]
 
-
-
 P:
 create a function that takes in two values (a,b)
 create a loop that starts at a, adds up by a, ends at b
