@@ -9,7 +9,6 @@ Examples (Input -> Output)
 The conversion rate you should use is 6.75 CNY for every 1 USD. All numbers should be 
 represented as a string with 2 decimal places. (e.g. "21.00" NOT "21.0" or "21")
 
-
 P: is there any floats given? what is the conversion value? does it need exact decimal or to the nearst tenth decimal? 
 R: return the converted value of USD to Chinese Yuan
 E:
