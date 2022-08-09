@@ -6,7 +6,7 @@ numbers are equal return a or b.
 Note: a and b are not ordered!
 
 P: Given two integers a and b, which can be positive or negative
-R: return the sum of all the integers between and includeing them and return it.
+R: return the sum all of the integers between the given numbers
 if the two numbers are equal return a or b
 E: 
 (1, 0) --> 1 (1 + 0 = 1)
