@@ -1,4 +1,4 @@
-/* Write a function to split a string and convert it into an array of words
+/* Write a function to split a string and convert it into an array of words.
 
 P: you will be given a string 
 R: return an array created from the string
