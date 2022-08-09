@@ -15,7 +15,6 @@ create a function that takes in the array
 splice the first three, 4-6th element, and 7-10th element
 join the arrays
 return them using `${}`
-
 */
 
 function createPhoneNumber(numbers) {
