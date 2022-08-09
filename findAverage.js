@@ -18,7 +18,6 @@ R:  return the mean of the given list
 E: 
     findAverage([1, 3, 5, 7]); //4
 P: 
-
 create a function that takes in an array
 reduce array
 then divide sum by array length
