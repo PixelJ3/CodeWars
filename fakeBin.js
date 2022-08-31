@@ -14,7 +14,7 @@ with a for loop, loop through each element in the arr
 if element has a value of 5 or higher push 1 to arr
 else push 0 
 join arr
-return; 
+return 
 
 */
 function fakeBin(x) {
