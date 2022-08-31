@@ -32,7 +32,7 @@ IP_ADDRESS_NOT_FOUND - ip address not in the database
 IP_ADDRESS_REQUIRED - no ip address was supplied
 
 
-P: You will be given a parameter 'language'
+P: You will be given a parameter 'language'.
 R: return a greeting in the language given as the parameter
 E: 
 greet('english')    //'Welcome', "Your function should have returned 'Welcome'. Try again.")
