@@ -9,7 +9,7 @@ Complete the function which tests if a positive integer n is Harshad number,
 and returns True if the product of its digit sum and its digit sum reversed equals n; otherwise return False.
 
 P:you will be given a random number
-R: return True if the product of its digit sum and its digit sum reversed equals n; otherwise return False
+R: return True if the product of its digit sum and its digit sum reversed equals n, otherwise return False
 E: 
 its digit sum, s = 1 + 7 + 2 + 9 = 19
 reversing s = 91
