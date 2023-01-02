@@ -1,4 +1,4 @@
-/*---________________________________________________________________________________________________________________________
+/*
 Complete the function which converts hex number (given as a string) to a decimal number.
 
 P: you will be given a string of numbers or letters
